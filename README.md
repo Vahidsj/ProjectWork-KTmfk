@@ -34,5 +34,5 @@ Eine Stückliste („parts list“ oder „bill of materials“ (BOM)) ist eine 
 
 ### Grafisches User Interface (GUI):
 
-
+                  ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Gui.PNG)
 

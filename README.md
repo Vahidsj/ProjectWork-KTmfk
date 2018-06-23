@@ -10,13 +10,24 @@ Produktdaten sind eine Form der Daten, die unter Berücksichtigung des Produktle
 
 Informationen bzw. Daten, die als Produktdaten angesehen werden können, umfassen normalerweise wie folgt:
 
-**1. Technische Spezifikationen: Messungen und Materialien.**<br />
-**2. Zeichnungen: elektronische oder manuelle Darstellungen des Produkts.**<br />
-**3. Stückliste: eine strukturierte Anordnung von Objekten.**<br />
-**4. Technische Dokumentationen: Unterlagen, wie ein Produkt konstruiert wird.**<br />
-**5. Andere Dokumente: zum Beispiel: Bilder des Endprodukts.**<br />
+**1. Technische Spezifikationen: Messungen und Materialien**<br />
+**2. Zeichnungen: elektronische oder manuelle Darstellungen des Produkts**<br />
+**3. Stückliste: eine strukturierte Anordnung von Objekten**<br />
+**4. Technische Dokumentationen: Unterlagen, wie ein Produkt konstruiert wird**<br />
+**5. Andere Dokumente: zum Beispiel: Bilder des Endprodukts**<br />
 
 Im Rahmen dieser Projektarbeit ist das Preprocessing auf die Stückliste-Daten fokussiert.
 
 Eine Stückliste („parts list“ oder „bill of materials“ (BOM)) ist eine Zusammenfassung sämtlicher Einzelteile mit entsprechenden Mengenangaben, die für die Erzeugung des jeweiligen Produktes oder einer bestimmten Baugruppe benötigt werden.
 
+### Motivation und Zielsetzung
+**- Entwicklung einer effizienten und flexiblen Methode zur automatisierten Aufbereitung von Baugruppen- und  Bauteildaten aus Stücklisten als Preprocessing für eine ontologiebasierte Weiterverarbeitung**<br />
+**- Methode um relevante Daten aus einer Stückliste zu extrahieren**<br />
+**- Identifikation von Baugruppen, Bauteilen und Normteilen anhand der Sachnummer**<br />
+**- Methode zur flexiblen Festlegung eines Suchschemas für verschiedene Sachnummern + Bewertung**<br />
+**- Umsetzung des Preprocessings anhand eines grafischen User Interface in Python**<br />
+
+### Ergebnisse
+**- Methode zur automatisierten Extraktion der relevanten Daten aus Stücklisten in Hilfstabellen**<br />
+**- Flexible Anwendbarkeit der Methode durch variabel festlegbare Suchschemata**<br />
+**- User Interface in Python für die optimale Wiederverwendung der Methoden**<br />

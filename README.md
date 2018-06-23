@@ -31,3 +31,7 @@ Eine Stückliste („parts list“ oder „bill of materials“ (BOM)) ist eine 
 **- Methode zur automatisierten Extraktion der relevanten Daten aus Stücklisten in Hilfstabellen**<br />
 **- Flexible Anwendbarkeit der Methode durch variabel festlegbare Suchschemata**<br />
 **- User Interface in Python für die optimale Wiederverwendung der Methoden**<br />
+
+### Grafisches User Interface (GUI)
+
+

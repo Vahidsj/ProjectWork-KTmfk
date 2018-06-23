@@ -36,3 +36,15 @@ Eine Stückliste („parts list“ oder „bill of materials“ (BOM)) ist eine 
 
    ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Gui.PNG)
 
+### Input- und Outbeispiel:
+
+   ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Input.PNG)
+   
+   ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Output.PNG)
+   
+### Ergebnisse des Pre-Processing mit GUI:
+
+   ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Gui-Table.PNG)
+   
+   ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/GuiDatabase.PNG)
+

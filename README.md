@@ -44,7 +44,13 @@ Eine Stückliste („parts list“ oder „bill of materials“ (BOM)) ist eine 
    
 ### Ergebnisse des Pre-Processing mit GUI:
 
+Die GUI bietet dem Benutzer alle Möglichkeiten, die zur Vorverarbeitung der im Form von Excel-Datei bestehenden Stücklistendaten benötigt sind. Unter Verwendung der Benutzeroberfläche kann sowohl eine Excel-Datei als auch ein Ordner mit mehreren Excel-Dateien aufbereitet werden. Das Ergebnis der Aufbereitung wird zunächst in Form einer Tabelle dargestellt und im Anschluss kann die Tabelle gegebenenfalls im Form einer Excel-Datei gespeichert werden.
+
    ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/Gui-Table.PNG)
    
+In dieser Arbeit wurde eine Datenbank von allen be-stehenden Stücklistendaten erstellt. Die Datenbank verschafft eine Gelegenheit, dass die Daten gegebenenfalls von Benutzer abgerufen werden.
+   
    ![GUI](https://github.com/Vahidsj/ProjectWork-KTmfk/blob/master/Image/GuiDatabase.PNG)
+   
+Es muss jedoch berücksichtigt werden, dass sich diese Arbeit ausschließlich auf die bestehenden Stücklistendaten konzentriert, die durch eine Formatvorlage strukturiert sind. Die Empfehlung für die weitere Arbeit ist daher, eine größere Datenbank zu er-stellen und dazu müssen allerdings mehrere Stücklisten vorhanden sein.
 
